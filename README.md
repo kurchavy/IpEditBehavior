@@ -1,3 +1,3 @@
 # IpEditBehavior
 IP editing WPF behavior for TextBox element.
-Prevents entering incorrect IP addresses into asttached TextBox
+Prevents entering incorrect IP addresses into attached TextBox
